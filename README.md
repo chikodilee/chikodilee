@@ -27,6 +27,11 @@
 ![Intellij](https://img.shields.io/badge/Intellij%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Gerrit](https://img.shields.io/badge/Gerrit-EEEEEE?style=for-the-badge&logo=gerrit&logoColor=black)
+![GitLab](https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![PyCharm](https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![GitHub CoPilot](https://img.shields.io/badge/Github%20Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+
 
 ### Collaboration
 
@@ -47,6 +52,7 @@
 
 ---
 ## 🤝 Let's Connect
-Connect with me on [LinkedIn](https://www.linkedin.com/in/chikodili-odinakachukwu)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/chikodili-odinakachukwu)
+- Connect with me on [YouTube](https://youtube.com/@chikodilee?si=97MZ_5Wr-lPXe6vq)
 
 
