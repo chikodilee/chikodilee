@@ -12,7 +12,7 @@
 - 💬 **Ask me about:** Product, Tech, Business/Enterpreneurship.
 - ⚡ **Fun fact:** I am super fascinated with the mind and it is my greatest asset!
 ---
-## 🛠️ Skills and Tools
+## 🛠️ Tools and Technologies
 
 ### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,js,python&perline=4)](https://skillicons.dev)
