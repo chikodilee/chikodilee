@@ -1,7 +1,7 @@
 # Hi, I'm Chikodili 👋
 👷🏽‍♀️ An impact-driven Engineer with 4+ years building Enterprise Software and driving Product Development. I combine strong product intuition with strategy and technical expertise to deliver impactful customer-centric solutions. 
 
-👩🏽‍💻 I've worked across Automotive, International Education, and Communications.
+👩🏽‍💻 I've worked across Automotive 🏎️, International Education 📖, and Media/Communications 🎤.
 
 <!-- ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -54,5 +54,8 @@
 ## 🤝 Let's Connect
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/chikodili-odinakachukwu)
 - Connect with me on [YouTube](https://youtube.com/@chikodilee?si=97MZ_5Wr-lPXe6vq)
+
+## ✨ Projects I'm always proud of!
+My Super cool [Past Engineering Projects](https://sites.google.com/view/chikodili-p-odinakachukwu)
 
 
