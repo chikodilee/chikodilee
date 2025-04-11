@@ -6,9 +6,9 @@
 <!-- ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## 📝 About Me
-- 🔭 **Working on:** A Mobile Lifestyle App For Hobbies.
-- 🌱 **Currently learning:** APIs, Cross Platform Languages, and Web Dev Frameworks.
-- 👯 **Collaborations:** Creative Projects at the intersection of Engineering + Business.
+- 🔭 **Working on:** An AI Integration for the Travel Marketplace.
+- 🌱 **Currently learning:** AI, Product Management, and Cross Platform Languages.
+- 👯 **Collaborations:** Creative Projects at the intersection of Product + Engineering + Business.
 - 💬 **Ask me about:** Product, Tech, Business/Enterpreneurship.
 - ⚡ **Fun fact:** I am super fascinated with the mind and it is my greatest asset!
 ---
@@ -16,6 +16,9 @@
 
 ### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,js,python&perline=4)](https://skillicons.dev)
+
+### AI Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Development Tools
 <!-- [![My Skills](https://skillicons.dev/icons?i=androidstudio,gradle,vscode,github,jenkins,linux,ubuntu,eclipse&perline=4)](https://skillicons.dev) -->
