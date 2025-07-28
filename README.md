@@ -20,8 +20,11 @@
 ### AI Tools
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub CoPilot](https://img.shields.io/badge/Github%20Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white)
+![Bolt](https://img.shields.io/badge/Stackblitz-1269D3?style=for-the-badge&logo=stackblitz&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
+
 
 ### Development Tools
 <!-- [![My Skills](https://skillicons.dev/icons?i=androidstudio,gradle,vscode,github,jenkins,linux,ubuntu,eclipse&perline=4)](https://skillicons.dev) -->
